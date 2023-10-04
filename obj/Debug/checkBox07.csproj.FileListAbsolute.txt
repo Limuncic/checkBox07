@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\checkBox07\bin\Debug\checkBox07.exe.config
+C:\Users\ucenik\source\repos\checkBox07\bin\Debug\checkBox07.exe
+C:\Users\ucenik\source\repos\checkBox07\bin\Debug\checkBox07.pdb
+C:\Users\ucenik\source\repos\checkBox07\obj\Debug\checkBox07.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\checkBox07\obj\Debug\checkBox07.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\checkBox07\obj\Debug\checkBox07.Form1.resources
+C:\Users\ucenik\source\repos\checkBox07\obj\Debug\checkBox07.Properties.Resources.resources
+C:\Users\ucenik\source\repos\checkBox07\obj\Debug\checkBox07.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\checkBox07\obj\Debug\checkBox07.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\checkBox07\obj\Debug\checkBox07.exe
+C:\Users\ucenik\source\repos\checkBox07\obj\Debug\checkBox07.pdb
